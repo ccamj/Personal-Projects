@@ -2,14 +2,14 @@ Current work in progress.
 
 
 
-Working status:
+# Working status:
 
 Minumal functionality
 
 
 
 
-To-Do:
+# To-Do:
 
 -finish multi-layer capability (currently rigged for single layer)
 
