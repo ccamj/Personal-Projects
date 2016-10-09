@@ -22,5 +22,7 @@ make
 ## Library Reference
 
 Simple Fast Media Library (SFML)
+
 http://www.sfml-dev.org/download.php
+
 Using SFML 2.1
