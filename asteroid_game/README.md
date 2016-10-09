@@ -11,7 +11,7 @@ This project contains a simple 2 Dimension game created in C++ with SFML (simple
 ## Installation
 
 This project was set up for use on Linux. Use the provided Makefile ($ make) to compile and link the source and object files.
-You can run the program throught either the executable, or the command line $./astro
+You can run the program through either the executable, or the command line $./astro
 
 ex:
 
