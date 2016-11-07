@@ -14,5 +14,5 @@ This project was created in Java and includes a multiplatform executable JAR fil
 ## File Layout
 This project contains three source files: Builder.java(main), NewSource.java, and NewHeader.java
 
-Other files: screenshot.png, makebuilder.jar
+Other files: screenshot.png, makebuilder.jar, mfilebuilder.png (program icon in resource folder)
 
